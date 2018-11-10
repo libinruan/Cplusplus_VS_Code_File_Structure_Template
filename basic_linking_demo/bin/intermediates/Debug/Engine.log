@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (E:\GoogleDrive\GitHub\C_plusplus_projects\c_plusplus_projects\Linking_Example\bin\intermediates\Debug\) contains files shared from another project (Analysis.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Engine.vcxproj -> E:\GoogleDrive\GitHub\C_plusplus_projects\c_plusplus_projects\Linking_Example\bin\Debug\Engine.lib
